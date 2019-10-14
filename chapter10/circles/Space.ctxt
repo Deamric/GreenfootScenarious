@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Space()
+comment0.text=\n\ Trivial\ constructor\ creating\ a\ new\ Space\ world.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Waits\ for\ user\ mouse\ input\ and\ then\ creates\ new\ Circles\n\ if\ any\ mouse\ button\ is\ pressed.\ It'll\ be\ produced\ at\ the\n\ current\ location\ of\ the\ Mouse.\n
+comment2.params=
+comment2.target=boolean\ hasPosition()
+comment2.text=\n\ @return\ True\ if\ there\ are\ recorded\ positions,\ false\ if\ not.\n
+comment3.params=
+comment3.target=java.awt.geom.Point2D\ calculateDeltaXY()
+comment3.text=\n\ @return\ A\ new\ Point2D\ that\ contains\ the\ initial\ DeltaX\ and\ DeltaY\ based\ on\ the\ stored\ positions.\n
+numComments=4

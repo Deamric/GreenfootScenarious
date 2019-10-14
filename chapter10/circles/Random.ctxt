@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=seed
+comment0.target=void\ seed(long)
+comment0.text=\n\ Sets\ the\ starting\ seed\ value\ for\ this\ Random\ class.\n\ This\ is\ the\ value\ used\ when\ calculating\ more\ random\n\ numbers,\ and\ by\ seeding\ to\ a\ specific\ number\ you\ can\n\ generate\ the\ same\ series\ of\ random\ number.\n\ @param\ seed\ The\ long\ value\ to\ seed\ this\ too.\n
+comment1.params=minimum\ maximum
+comment1.target=double\ random(double,\ double)
+comment1.text=\n\ @param\ minimum\ The\ minimun\ random\ number,\ inclusively.\n\ @param\ maximum\ The\ maximum\ random\ number,\ exclusively.\n\ @return\ A\ number\ greater\ or\ equal\ to\ minimum,\ less\ then\ maximum.\n
+comment2.params=minimum\ maximum
+comment2.target=float\ random(float,\ float)
+comment2.text=\n\ @param\ minimum\ The\ minimun\ random\ number,\ inclusively.\n\ @param\ maximum\ The\ maximum\ random\ number,\ exclusively.\n\ @return\ A\ number\ greater\ or\ equal\ to\ minimum,\ less\ then\ maximum.\n
+comment3.params=minimum\ maximum
+comment3.target=int\ random(int,\ int)
+comment3.text=\n\ @param\ minimum\ The\ minimun\ random\ number,\ inclusively.\n\ @param\ maximum\ The\ maximum\ random\ number,\ exclusively.\n\ @return\ A\ number\ greater\ or\ equal\ to\ minimum,\ less\ then\ maximum.\n
+comment4.params=
+comment4.target=boolean\ randomBoolean()
+comment4.text=\n\ @return\ Randomly\ returns\ either\ a\ True\ or\ False.\n
+comment5.params=
+comment5.target=double\ randomDouble()
+comment5.text=\n\ @return\ A\ random\ double\ value\ between\ 0\ and\ 1.\n
+comment6.params=
+comment6.target=Random()
+comment6.text=\n\ Cannot\ use\ it's\ constructor.\n
+numComments=7

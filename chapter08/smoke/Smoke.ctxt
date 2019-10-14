@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Smoke
+comment0.text=\r\n\ A\ puff\ of\ smoke\ that\ fades\ away\ and\ vanishes.\r\n\ \r\n\ @author\ M.\ Kolling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Smoke()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ In\ every\ step,\ get\ smaller\ until\ we\ disappear.\r\n
+comment3.params=
+comment3.target=void\ shrink()
+comment3.text=\r\n\ Make\ the\ image\ of\ this\ actor\ a\ little\ smaller.\ If\ it\ gets\ very\ small,\r\n\ delete\ the\ actor.\r\n
+numComments=4

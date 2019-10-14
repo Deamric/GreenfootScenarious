@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SmoothMover()
+comment1.params=speed
+comment1.target=SmoothMover(Vector)
+comment1.text=\n\ Create\ new\ thing\ initialised\ with\ given\ speed.\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\n\ Move\ forward\ one\ step.\n
+comment3.params=
+comment3.target=boolean\ outOfWorld()
+comment4.params=x\ y
+comment4.target=void\ setLocation(double,\ double)
+comment4.text=\n\ Providing\ 'setLocation'\ based\ on\ doubles.\ This\ will\ eventually\ call\n\ the\ built-in\ 'setLocation'\ method\ in\ Actor.\n
+comment5.params=x\ y
+comment5.target=void\ setLocation(int,\ int)
+comment5.text=\n\ Override\ the\ default\ 'setLocation'\ method\ to\ keep\ our\ own\ coordinates\n\ up-to-date.\n
+comment6.params=s
+comment6.target=void\ increaseSpeed(Vector)
+comment6.text=\n\ Increase\ the\ speed\ with\ the\ given\ vector.\n
+comment7.params=
+comment7.target=Vector\ getSpeed()
+comment7.text=\n\ Return\ the\ current\ speed.\n
+numComments=8

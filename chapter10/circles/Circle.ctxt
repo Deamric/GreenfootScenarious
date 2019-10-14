@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=deltaX\ deltaY
+comment0.target=Circle(double,\ double)
+comment0.text=\n\ Creates\ a\ new\ Circle\ that\ starts\ moving\ automatically\n\ with\ the\ given\ deltaX\ and\ deltaY\ values.\n\ @param\ deltaX\ The\ starting\ movement\ along\ the\ x-axis.\n\ @param\ deltaY\ The\ starting\ movement\ along\ the\ y-axis.\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\n\ @param\ world\ The\ World\ this\ actor\ is\ being\ added\ to,\ it\ isn't\ used.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Moves\ the\ Circle\ bouncing\ it\ around\ the\ World.\n
+numComments=3
